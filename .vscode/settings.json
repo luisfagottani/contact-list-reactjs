@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "html.validate.scripts": false,
+  "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow",
+  "editor.rulers": [100],
+  "search.exclude": {
+    "build": true,
+    "coverage": true,
+    "**/node_modules": true,
+    "flow-typed": true
+  },
+  "editor.minimap.enabled": false,
+  "search.usePCRE2": true
+}
